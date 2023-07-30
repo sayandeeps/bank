@@ -1,0 +1,8 @@
+Account Balance:
+1000
+
+10000 Credited at 2023-07-31 02:04:16: Available Balance: 10000
+1200 Credited at 2023-07-31 02:04:21: Available Balance: 11200
+300 Debited at 2023-07-31 02:04:25: Available Balance: 10900
+100 Credited at 2023-07-31 02:04:31: Available Balance: 11000
+10000 Debited at 2023-07-31 02:04:37: Available Balance: 1000
