@@ -23,7 +23,7 @@ public class Main {
                 l.login();
             }
             else {
-                System.out.println("Invalid Choice");
+                System.out.println("Invalid options");
             }
         }
 
